@@ -1,0 +1,11 @@
+header, nav, aside, article, footer, section{
+    border:1px solid gray;
+    padding: 10px;
+}
+.row{
+    margin: auto;
+}
+.table{
+    display: grid;
+    grid-template-columns: 2, 2;
+}
